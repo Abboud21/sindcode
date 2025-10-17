@@ -49,6 +49,6 @@ A UC visa aplicar metodologias ágeis e tecnologias modernas para a criação de
 
 - 3.1: Boas Praticas da subfunção 2.1
 - 4.4: Controle de Versão da subfunção 2.1
-- Entre no site para gerar gitignore: https://www.toptal.com/developers/gitignore
-- Entre no github e crie um novo repositório: https://github.com/Abboud21?tab=repositories
+- Entre no site para gerar gitignore: https://www.toptal.com/developers/gitignore.
+- Entre no github e crie um novo repositório: https://github.com/Abboud21?tab=repositories.
 - Usar o commit especificando a tarefa do SCRUM: git commit -m "<<codigo-task>> <<mensagem>> <<#status>>"

@@ -5,7 +5,7 @@ show databases;
 CREATE DATABASE IF NOT EXISTS sindcode;
 USE sindcode;
 show databases;
--- DROP DATABASE sindicode;
+-- DROP DATABASE sindicode;.
 /*
 	use o drop com muita cautela
 */
